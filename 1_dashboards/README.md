@@ -1,0 +1,7 @@
+|Название проекта| Описание проекта| 
+|----------------|-----------------|
+|Основной дашборд ленты новостей, отражающий ключевые метрики продукта (__[github](https://github.com/Darinchi/Data_Analyst_Simulator/blob/main/1_dashboards/Feed_Main_metrics.jpg)__)|Дашборд с ключевыми метриками: DAU, MAU, WAU, CTR, ER, Количество лайков и просмотров и топ постов по популярности|
+|Оперативный дашборд с графиками за сегодняшний день  (__[github](https://github.com/Darinchi/Data_Analyst_Simulator/blob/main/1_dashboards/Feed_realtime.jpg)__)|Активность пользователей ленты новостей в режиме реального времени и в сравнении с показателями предыдущего дня и недели|
+|Дашборд, который описывает взаимодействие двух сервисов — ленты и сообщений (__[github](https://github.com/Darinchi/Data_Analyst_Simulator/blob/main/1_dashboards/Users_activity.jpg)__)|Сколько пользователей использует только ленту новостей и не пользуются сообщениями|
+|Дашборд с Retention пользователей по источникам привлечения: ads(рекламы) и organic (__[github](https://github.com/Darinchi/Data_Analyst_Simulator/blob/main/1_dashboards/Retention.jpg)__)|На этом дашборде можно увидеть различия использования приложения у этих групп пользователей, а также Разделение активной аудитории на новых, старых и ушедших пользователей|
+|Падение активности пользователей 16 ноября 2023 г. (__[github](https://github.com/Darinchi/Data_Analyst_Simulator/blob/main/1_dashboards/Decline_in_the_activity_16122023.jpg)__)|Исследовали, какие пользователи не смогли зайти в приложение, что их объединяет|
