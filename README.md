@@ -1,5 +1,5 @@
 # Data_Analyst_Simulator
-Проекты с *Karpov.Courses Data analyst simulator* курса.
+### Проекты с *Karpov.Courses Data analyst simulator* курса.
 
 В рамках данного курса исследовали продукт -  приложение, в котором пользователи могут просматривать ленту новостей и отправлять друг другу сообщения. 
 
